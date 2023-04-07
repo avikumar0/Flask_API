@@ -4,4 +4,3 @@ Pillow
 Flask-Cors
 gunicorn
 tensorflow-gpu==2.4.0
-cudatoolkit
